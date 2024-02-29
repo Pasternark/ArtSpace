@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    //strings para titulos de las pinturas
+    <string name="title_girasoles">Girasoles</string>
+    <string name="title_mona_lisa">La Gioconda</string>
+    <string name="title_joven_perla">La joven de la perla</string>
+    <string name="title_grito">El grito</string>
+
+    //Strings para los artistas de las pinturas
+    <string name="artist_van_gogh">Vincent van Gogh</string>
+    <string name="artist_johannes">Johannes Vermeer</string>
+    <string name="artist_vinci">Leonardo da Vinci</string>
+    <string name="artist_munch">Edvard Munch</string>
+    
+    //String para botones
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+</resources>
